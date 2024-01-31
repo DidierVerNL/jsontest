@@ -1,10 +1,8 @@
-{
-  "PlayerType": [
-    {
-      "UserID": 1,
-      "ID": 1,
-      "Title": "There once was a player",
-      "Body": "There once was a player so far far away, it feld like a hour to drive to him"
-    }
-  ]
-}
+[
+  {
+    "link": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/main/2.0/Fox/glTF/Fox.gltf"
+  },
+  {
+    "link": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/main/2.0/SheenChair/glTF/SheenChair.gltf"
+  }
+]
